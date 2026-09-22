@@ -18,7 +18,6 @@ return array(
 		array( 'Utmärkt. Väldigt trevliga, både folk jag pratade med på telefonen samt montören. Kunde komma samma dag jag ringde och installera min diskmaskin. Till ett bra pris också! Rekommenderas.', 'Martin Sjölander', 'för 8 år sedan' ),
 		array( 'Tacksam för denna firma. Montören Philip kom och bytte inkommande vattenventiler och ordnade med ny duschblandare. Mycket trevlig kille, gjorde ett bra jobb, inga problem.', 'Johan Emgård', 'för ett år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg' ),
+	'bild_hero'      => 'foto-3.jpg',
 	'ar_riktig'      => true,
 );
