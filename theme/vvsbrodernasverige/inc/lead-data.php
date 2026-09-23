@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'VVS Bröderna Sverige AB',
+	'bransch'        => 'VVS-entreprenör',
 	'telefon'        => '019-16 83 40',
 	'telefon_tel'    => '+4619168340',
 	'ort'            => 'Örebro',
